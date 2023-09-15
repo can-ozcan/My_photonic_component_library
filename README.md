@@ -25,7 +25,7 @@ Highlights of the 1x2 Y-Junction power splitters:
 &nbsp;
 
 #### The 1x2 Y-Junction power splitter designed for AMF:
-(Submitted to Photonics) [Invited] Can Ozcan, J. Stewart Aitchison, and Mo Mojahedi, "*Foundry-processed Compact and Broadband Adiabatic Optical Power Splitters with Strong Fabrication Tolerance*", Photonics, Vol 48, Issue 18, 2023.
+(Submitted to Photonics) [Invited] Can Ozcan, J. Stewart Aitchison, and Mo Mojahedi, "*Foundry-processed Compact and Broadband Adiabatic Optical Power Splitters with Strong Fabrication Tolerance*".
 
 <p align="center">
   <img src="https://github.com/can-ozcan/My_photonic_component_library/assets/87956141/1ef49e49-2752-4042-bb3b-96fa689c5d79" width=70% height=70%>
