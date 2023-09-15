@@ -45,12 +45,10 @@ This
   <img src="https://github.com/can-ozcan/My_photonic_component_library/assets/87956141/a72ed9e3-2e0d-4373-95b0-47ac6a802dff" width=50% height=50%>
 </p>
 
+&nbsp;
 
-
-
-
-
-
+## TM<sub>0</sub> to TE<sub>1</sub> Mode Converters
+[[Invited] Can Ozcan, Mo Mojahedi, and J. Stewart Aitchison, "*Waveguide Taper Profile Optimization for Compact On-chip Adiabatic Devices*", Photonics North Conference, 2023](https://ieeexplore.ieee.org/abstract/document/10222971)
 
 
 
