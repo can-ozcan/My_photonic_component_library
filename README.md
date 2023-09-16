@@ -48,7 +48,22 @@ This
 &nbsp;
 
 ## TM<sub>0</sub> to TE<sub>1</sub> Mode Converters
+The TM<sub>0</sub> to TE<sub>1</sub> adiabatic mode converter was proposed and realized in [this paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-22-4-3777&id=279346) as a 100 micron long device. [A later work](https://pubs.aip.org/aip/app/article/4/3/030803/123597) achieved a length of 40 microns. Here, I show my design, which has a length of 18 microns and very low (<0.1 dB) mode conversion losses:
+
 [[Invited] Can Ozcan, Mo Mojahedi, and J. Stewart Aitchison, "*Waveguide Taper Profile Optimization for Compact On-chip Adiabatic Devices*", Photonics North Conference, 2023](https://ieeexplore.ieee.org/abstract/document/10222971)
+
+<p align="center">
+  <img src="https://github.com/can-ozcan/My_photonic_component_library/assets/87956141/dd5e896d-0516-426f-b8c2-774048dfb576" width=80% height=80%>
+</p>
+
+&nbsp;
+
+## Untested & Unpublished Devices
+Here are some devices which I have not had the time to get fabricated or tested. I limit the amount of information about these devices in case I decide to fabricated and test these devices.
+
+### Polarization Rotator Splitter
+
+### Si-to-SiN Light Coupler
 
 
 
