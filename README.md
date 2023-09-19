@@ -2,6 +2,20 @@
 
 This repository provides a showcase of the photonic components I designed throughout my Ph.D. These components can be categorized as power splitters, fiber-to-chip light couplers, mode converters, polarization rotators, and Si-to-SiN light couplers. The GDS files of these devices are given, along with experimental results for most of these components.
 
+## Fiber-to-Chip Light Couplers
+Here I present my adiabatic inverse taper-based fiber-to-chip light coupler designs. 
+
+Highlights of the fiber-to-chip light couplers: 
+- Low losses around 1550 nm (<1 dB)
+- Dual polarization operation
+- Broadband
+- Short device length (15 um)
+- Strong fabrication error tolerance
+- Low performance variation between chips
+
+<p align="center">
+  <img src="https://github.com/can-ozcan/My_photonic_component_library/assets/87956141/c8ba0ce1-704a-4ec0-a10e-67682f194b01" width=75% height=75%>
+</p>
 
 ## Power Splitters
 ### 1x2 Power Splitters (Y-Junction Power Splitters)
@@ -39,8 +53,6 @@ The performance metrics of the 1x2 Y-Junction power splitters are summarized in 
 </p>
 
 ### 2x2 3 dB Power Splitters on 90 nm Slab
-This 
-
 <p align="center">
   <img src="https://github.com/can-ozcan/My_photonic_component_library/assets/87956141/a72ed9e3-2e0d-4373-95b0-47ac6a802dff" width=50% height=50%>
 </p>
@@ -56,12 +68,10 @@ The TM<sub>0</sub> to TE<sub>1</sub> adiabatic mode converter was proposed and r
   <img src="https://github.com/can-ozcan/My_photonic_component_library/assets/87956141/dd5e896d-0516-426f-b8c2-774048dfb576" width=80% height=80%>
 </p>
 
-&nbsp;
-
 ## Untested & Unpublished Devices
 Here are some devices which I have not had the time to get fabricated or tested. I limit the amount of information about these devices in case I decide to fabricated and test these devices.
 
-### Polarization Rotator Splitter
+### Polarization Rotator/Splitter
 
 ### Si-to-SiN Light Coupler
 
